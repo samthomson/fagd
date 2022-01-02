@@ -5,3 +5,6 @@
 - if under threshold (30?) AND DAI balance > 0 then buy BTC
 - repeat this each dat/hour/[whatever period]
 - be a smart contract deployable by a user & fundable via public address. corresponding private key would enable releasing funds.
+
+notes:
+- buy/sell via paraswap
