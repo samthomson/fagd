@@ -8,3 +8,4 @@
 
 notes:
 - buy/sell via paraswap
+- use [gelato](https://www.gelato.network/) to simulate cron
